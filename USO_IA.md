@@ -6,7 +6,7 @@
 
 **Disciplina:** IAUC — IF Goiano Campus Iporá — 2026/1.
 
-## Ferramentas utilizadas
+## A
 - ChatGPT 
 ## Etapas em que a IA foi utilizada
 - Formatação e revisão de textos.
