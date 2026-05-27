@@ -17,6 +17,7 @@
 ## Interação 1
 **Prompt:**
 Estou criando um aplicativo para a população relatar problemas urbanos (buracos, iluminação). Além do mapa e do relato básico, quais outras 3 funcionalidades focadas em engajamento comunitário eu posso incluir para tornar o app mais útil?
+
 **Resultado:**
 Votação de Relevância: Permitir que outros usuários apoiem ("votinhem") o mesmo problema para criar um ranking visual de urgência no mapa.
 Linha do Tempo do Status: Atualizações automáticas do poder público mudando o status de "Aberto" para "Em Análise", "Em Execução" e "Resolvido".
