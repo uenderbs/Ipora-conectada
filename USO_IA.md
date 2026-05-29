@@ -39,3 +39,14 @@ Linha do Tempo do Problema: Envie notificações automáticas a cada mudança de
 Votação Comunitária (Upvote): Permita que vizinhos cliquem em 'Também tenho esse problema' no mapa. Isso evita relatos repetidos e mostra quais problemas são prioritários para o bairro.
 
 Painel de Impacto: Crie uma aba no perfil do usuário mostrando o impacto dele, como: 'Você ajudou a resolver 3 problemas na sua região este mês'."
+
+## Interação 3
+**Prompt:**
+
+Quero prever possíveis problemas no uso do app. Além da falta de adesão, quais são os 2 maiores riscos operacionais de um app de relatos urbanos e como posso mitigá-los no projeto?
+
+**Resultado:**
+
+Relatos Falsos ou Trote: Usuários criando problemas inexistentes. Mitigação: Exigir que cada relato venha acompanhado obrigatoriamente de uma foto tirada na hora pelo app (bloqueando upload da galeria) e validação pelo GPS do celular.
+
+Sobrecarga de Demandas Repetidas: 50 pessoas relatando o mesmo buraco, gerando caos no banco de dados. Mitigação: Antes de abrir um formulário, o app deve exibir um mapa com os problemas já relatados naquela rua e sugerir que o usuário apenas dê um 'apoio' no chamado existente."
